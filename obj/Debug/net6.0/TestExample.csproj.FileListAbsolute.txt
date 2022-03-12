@@ -1,0 +1,15 @@
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\TestExample.exe
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\TestExample.deps.json
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\TestExample.runtimeconfig.json
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\TestExample.dll
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\ref\TestExample.dll
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\bin\Debug\net6.0\TestExample.pdb
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.AssemblyInfo.cs
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.dll
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\ref\TestExample.dll
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.pdb
+C:\Users\Developer\Documents\2022\kinal\net\TestExample\obj\Debug\net6.0\TestExample.genruntimeconfig.cache
