@@ -10,15 +10,16 @@ public class Program
         Alumno JuanPerez = new Alumno("123","Perez Alvarez","Juan Alberto","jperez@kalum.edu.gt","2022001",30);
         Profesor EdwinTumax = new Profesor("767","Mancilla Paz","Raul Antonio","rmancilla@kalum.edu.gt","2489392620102","Instructor de informática");
 
+        Console.WriteLine("Procesando registro de datos");
         OperarRegistro(JuanPerez);
         OperarRegistro(EdwinTumax);
-
+        Console.WriteLine("Registrar asistencia");
         RegistrarAsistencia(JuanPerez);
         RegistrarAsistencia(EdwinTumax);
-
+        Console.WriteLine("Mostrando datos");
         VerMisDatos(JuanPerez);
         VerMisDatos(EdwinTumax);
-
+        Console.WriteLine("Eliminando asignaturas");
         QuitarAsignatura(JuanPerez,"Matematica");
         QuitarAsignatura(EdwinTumax,"Informática");
 
